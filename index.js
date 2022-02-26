@@ -63,15 +63,15 @@
 // console.log(a[1]);
 
 
-// slice()
-// search()
-// toUpperCase()
-// toLowerCase()
-// name.indexOf('x')
-// name.replace('alex', 'jorge')
-// name.replace('alex', 'jorge')
-// name.charAt()
-// name.length
+slice()
+search()
+toUpperCase()
+toLowerCase()
+name.indexOf('x')
+name.replace('alex', 'jorge')
+name.replace('alex', 'jorge')
+name.charAt()
+name.length
 
 // let value = '        Alex Adams        '
 
